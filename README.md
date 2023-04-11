@@ -1,2 +1,2 @@
-# Eclipse
-Official flagship proxy of Art Class
+# Madroid Proxy
+Flagship proxy of Madroid Portal
